@@ -1,0 +1,3 @@
+[submodule "TRIP-ROS2-interface"]
+	path = TRIP-ROS2-interface
+	url = https://github.com/DavDori/TRIP-ROS2-interface.git
