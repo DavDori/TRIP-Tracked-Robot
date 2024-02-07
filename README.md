@@ -18,9 +18,13 @@ Welcome to the DIY Mobile Robot TRIP project! This repository serves as a hub fo
 </p>
 
 ## Components
-- **Raspberry pi 4 8GB RAM**
+- **Raspberry pi 4 8GB RAM** with Ubuntu 22.04 and ROS2 Humble
 - **Arduino Uno**
 - **TB6612FNG**
 - 2 x **DC motor with rotary encoders** 12V gearbox ratio 150
 - 2 x **LiPO Batteries** 2200mAh 11.1V 3S1P
 - **Buck converter** 12V to 5V
+
+<p align='center'>
+    <img src="./Imgs/trip_scheme_v1.png" alt="drawing" width="600"/>
+</p>
