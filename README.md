@@ -3,7 +3,7 @@
 Welcome to the DIY Mobile Robot TRIP project! This repository serves as a hub for building and testing TRIP mobile robot.
 
 <p align='center'>
-    <img src="./Imgs/robot_photo_v1.png" alt="drawing" width="600"/>
+    <img src="./Imgs/trip_photo.png" alt="drawing" width="600"/>
 </p>
 
 ## Features
@@ -26,5 +26,5 @@ Welcome to the DIY Mobile Robot TRIP project! This repository serves as a hub fo
 - **Buck converter** 12V to 5V
 
 <p align='center'>
-    <img src="./Imgs/trip_scheme_v1.png" alt="drawing" width="600"/>
+    <img src="./Imgs/trip_scheme.png" alt="drawing" width="600"/>
 </p>
