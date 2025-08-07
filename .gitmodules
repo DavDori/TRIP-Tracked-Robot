@@ -1,6 +1,0 @@
-[submodule "TRIP-ROS2-interface"]
-	path = TRIP-ROS2-interface
-	url = https://github.com/DavDori/TRIP-ROS2-interface.git
-[submodule "TRIP-low-level-controller"]
-	path = TRIP-low-level-controller
-	url = https://github.com/MassimoClementi/TRIP-low-level-controller
